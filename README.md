@@ -1,5 +1,4 @@
 
-# smart-treasure-hunter
 
 # 🤖 Smart Treasure Hunter
 
